@@ -1,11 +1,11 @@
 body { 
- background-color: #40e0d0
+ background-color: #008080
 }
 h1 { 
  color: #228b22
 }
  p {
-  color: blue;
+  color: grey;
 }
 ul {
     list-style-type: none;
