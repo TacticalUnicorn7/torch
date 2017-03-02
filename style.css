@@ -13,7 +13,9 @@ h3 {
  color: white 
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
-
+table, th, td {
+    border: 1px solid black;
+}
 
 
 p {
