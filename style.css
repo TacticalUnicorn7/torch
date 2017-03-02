@@ -1,16 +1,16 @@
 body { 
- background-color: #008080
+ background-color: #008080;
 }
 h1 { 
- color: white
+ color: white;
 }
 
 h2 { 
- color: white 
+ color: white;
 }
  
 h3 { 
- color: white 
+ color: white; 
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 table, th, td {
