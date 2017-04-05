@@ -43,7 +43,7 @@ li a {
 
 /* unvisited link */
 a:link {
-    color: green;
+    color: white;
 }
 
 /* visited link */
