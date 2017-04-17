@@ -13,7 +13,7 @@
     <h2>Visuals</h2>
     <img src="Bar graph.PNG">
     <img src="pie chart.PNG">
-    <img src="">
+    <img src="Bar graph2.PNG">
     <h2>Conclusion</h2>
     <p>Our conclusion is that M and M's are faster than Jelly beans in all three categories, although it was only by 0.06 seconds on medium and by 0.02 seconds on high.<br> On low M and M’s were clearly faster, and for the overall average, M and M’s were only faster by 0.05 seconds.
   <link rel="stylesheet" href="style.css">
