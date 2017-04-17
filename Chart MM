@@ -1,20 +1,23 @@
-<!doctype html>
+<DOCTYPE html>
+<html>
+  <head>  
+    <title>M and M project</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>What will go down a ramp faster? An M and M or a jelly bean?</h1>
+    <h2>Data Collection</h2>
+    <p>We had a ramp and we rolled jelly beans and M and M’s down it, we used three different ramp heights, high, medium, and low, we didn’t have a protractor so we estimated.<br> We recorded the time when we heard it hit the floor.</p>
+    <h2>Data Analysis</h2>
+    <p>On the high ramp M and M’s were clearly faster. On the medium ramp the data was inconsistent, some M and M’s were faster and some jelly beans were faster than M and M’s,<br> they were pretty even but for the medium ramp jelly beans seemed to be faster. On the small ramp the jelly beans were faster again,<br> the only problem is we had to drop the M and M’s from a tiny height, otherwise they would not go down the ramp. In the end there doesn't seem to be a faster one, the data was too inconsistent and it could have been due to human error with the stopwatch.
+    <h2>Visuals</h2>
+    <img src="Bar graph.PNG">
+    <img src="pie chart.PNG">
+    <img src="">
+    <h2>Conclusion</h2>
+    <p>Our conclusion is that M and M's are faster than Jelly beans in all three categories, although it was only by 0.06 seconds on medium and by 0.02 seconds on high.<br> On low M and M’s were clearly faster, and for the overall average, M and M’s were only faster by 0.05 seconds.
+  <link rel="stylesheet" href="style.css">
+  </body>
+  </html>
 
-<html lang="en">
-<head>
-  <meta charset="utf-8">
 
-  <title>MM Chart</title>
-  <meta name="description" content="Data">
-  <meta name="author" content="SitePoint">
-
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
-
-  
-</head>
-
-<body>
-  <script src="js/scripts.js"></script>
-  <img src="smiley.gif" alt="Smiley face" height="42" width="42">
-</body>
-</html>
